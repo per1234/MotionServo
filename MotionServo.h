@@ -20,7 +20,7 @@ class MotionServo {
         else if (Home > Max) Home = Max;
       } else if (Min > Max) {
         if (Home > Min) Home = Min;
-        else If (Home < Max) Home = Max;
+        else if (Home < Max) Home = Max;
       } else Home = Min;
       
       _servo.min = Min;

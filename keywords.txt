@@ -4,5 +4,5 @@ begin	KEYWORD2
 home	KEYWORD2
 moveTo	KEYWORD2
 move	KEYWORD2
-getHome KEYWORD2
-getCurrentPosition KEYWORD2
+getHome	KEYWORD2
+getCurrentPosition	KEYWORD2
